@@ -4,7 +4,6 @@
 
 Hospital Management System using MongoDb, Express and React
 
-
 # Need to  work on
 
 1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
